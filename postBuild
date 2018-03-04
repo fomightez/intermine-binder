@@ -7,5 +7,3 @@ jupyter nbextension install https://github.com/EWouters/2to3_cell/archive/master
 jupyter nbextension enable 2to3_cell-master/2to3_cell
 
 
-# Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
-jupyter trust index.ipynb
