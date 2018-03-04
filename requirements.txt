@@ -1,0 +1,12 @@
+intermine # only one really necesary for using Intermines web services.
+
+# OTHERS ADDED FOR CONVENIENCE:
+# for automating coversion to Python 3 include nbextensions
+jupyter_contrib_nbextensions
+
+
+# some other favorites in the Python universe
+matplotlib
+pandas
+numpy
+seaborn
