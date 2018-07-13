@@ -11,7 +11,7 @@ Click any `launch binder` badge on this page to run code that takes advantage of
 Getting Started
 ---------------
 
-I have made [a guide to getting started with using Intermine sites and Jupyter using MyBinder-served Jupyter notebooks](https://github.com/fomightez/guide_to_intermine-binder).
+See [a guide to getting started](https://github.com/fomightez/guide_to_intermine-binder) with using Intermine sites and Jupyter using MyBinder-served Jupyter notebooks.
 
 
 Background
