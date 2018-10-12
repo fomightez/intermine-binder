@@ -1,6 +1,6 @@
 # Running Intermine web services via Binder
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/fomightez/intermine-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/intermine-binder/master?filepath=index.ipynb)
 
 Intermine Web Services available in a Jupyter environment running via the Binder service.
 
@@ -32,4 +32,4 @@ Chances are good that this repository I have set up is enough to get you started
 
 Click this button below to begin using Intermine web services via Binder:
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/fomightez/intermine-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/intermine-binder/master?filepath=index.ipynb)
