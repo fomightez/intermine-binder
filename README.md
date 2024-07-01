@@ -8,6 +8,18 @@ Click any `launch binder` badge on this page to run code that takes advantage of
 
 ----
 
+Important note about YeastMine SHUTTING DOWN
+--------------------------------------------
+
+**IMPORTANT: As of July 1st 2024, Yeastmine is scehduled to be shut down July 15, 2024.**
+https://x.com/yeastgenome/status/1807832546027491641    July 2024
+>"YeastMine is closing July 15 due to ongoing funding cuts. For more info: https://community.alliancegenome.org/t/yeastmine-shutting-down-july-15/7720 #yeast"
+
+That linked note says:
+>"We are working to move the YeastMine data into AllianceMine, hosted by the Alliance of Genome Resources, of which SGD is a founding member." [SOURCE](https://community.alliancegenome.org/t/yeastmine-shutting-down-july-15/7720)
+
+The content of this repo has not yet been updated to take into account any aspect of this new & still developing situation as I am looking for the dust to settle and to see what changes to programmatic access there is. I do note that the AllianceMine where the YeastMine data is going is listed on [the main InterMine page](http://intermine.org/) and so maybe things won't be that different.
+
 Getting Started
 ---------------
 
